@@ -156,3 +156,9 @@ quit
 
 ---
 
+## Viewing the Final Routed Layout
+
+After completing the routing stage, the following command was used to open the final routed layout in Magic.
+
+![Final Routing Command](../screenshots/final_routing_code.png)
+
