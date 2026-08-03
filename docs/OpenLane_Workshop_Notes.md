@@ -132,14 +132,5 @@ During the workshop, I came across several file formats:
 
 ---
 
-# What I Learned
 
-By completing this workshop, I gained a basic understanding of:
 
-- The RTL-to-GDSII ASIC design flow.
-- Running OpenLane in interactive mode.
-- Logic synthesis, floorplanning and placement.
-- The purpose of CTS and routing.
-- Viewing layouts using Magic.
-- Performing basic DRC exercises.
-- The role of the Sky130 PDK in chip design.
