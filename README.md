@@ -50,18 +50,6 @@ Some of the activities performed include:
 
 ---
 
-## Learning Outcomes
-
-After completing this workshop, I was able to:
-
-- Understand the basic RTL-to-GDSII ASIC design flow.
-- Learn how OpenLane automates different stages of physical design.
-- Explore chip layouts using Magic.
-- Understand the purpose of synthesis, floorplanning, placement, CTS and routing.
-- Perform basic DRC exercises using Magic.
-- Gain hands-on exposure to the OpenLane environment.
-
----
 
 ## Repository Structure
 
